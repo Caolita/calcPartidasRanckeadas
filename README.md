@@ -1,0 +1,2 @@
+# calcPartidasRanckeadas
+Desafio Dio
